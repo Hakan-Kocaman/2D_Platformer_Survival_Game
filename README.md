@@ -1,4 +1,4 @@
-# Pygame-Project-Video-Game-
+# Pygame-Project-Video-Game- RED DEAD RISING
 1. The Core Objective: "Survive the Waves"
 The game is built around Waves. It starts relatively easy, but as you progress, the undead become faster, tougher, and more numerous. Your goal is simple: survive as many waves as possible and beat your "Personal Best."
 
