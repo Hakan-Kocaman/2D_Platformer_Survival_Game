@@ -61,3 +61,7 @@ Throughput Scaling: By decreasing the "Fire Rate" delay (the cooldown between sh
 Output Scaling: Directly increasing the "Damage" variable reduces the number of hits required to trigger an enemy's "Death" state.
 <img width="1493" height="838" alt="image" src="https://github.com/user-attachments/assets/b1f8114f-0247-4885-802b-2e28d61bdc74" />
 
+👨‍💻 Authors
+--
+Hakan Kocaman
+Ahmet Emin Uğurlu
