@@ -64,4 +64,5 @@ Output Scaling: Directly increasing the "Damage" variable reduces the number of 
 👨‍💻 Authors
 --
 Hakan Kocaman
+
 Ahmet Emin Uğurlu
